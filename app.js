@@ -1,3 +1,4 @@
+// Simon say game JS code
 let gameSeq = [];
 let userSeq = [];
 
